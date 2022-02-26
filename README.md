@@ -37,9 +37,13 @@ Note: In the clientCode.txt make sure you have necessary files used for File IO 
 file paths. If not so modify the clientCode.txt File IO code according to your requirements.
 
 You will see this code will encrypt the file FileToEncrypt.txt.
+
 • FileToEncrypt.txt Before executing Script:
+
 Hello there
+
 • FileToEncrypt.txt After executing Script
+
 gAAAAABiAIfZ80mJPfkgZqjJSPJmVNMWJpsEeZMThWcEI7CXMaD_3vhg3ONZYfN_rDT6KObKNrQUo8RNJAqVSaEHklR5rJOJQ==
 
 # Decrypting the file:
