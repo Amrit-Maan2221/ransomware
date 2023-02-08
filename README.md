@@ -1,5 +1,5 @@
 # Introduction:
-In this assignment, a Ransomware is built by me. Through this document I will give your report of 
+A Ransomware is built by me. Through this document I will give your report of 
 how to run ransomware and successfully, and then how to decrypt the encrypted fille by 
 Ransomware.
 This ransomware code is written is Linux but can also be written in windows. However, this 
